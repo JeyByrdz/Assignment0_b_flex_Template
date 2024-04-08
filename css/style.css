@@ -77,6 +77,26 @@ body {
     background-color: lime;
 }
 
+.right-column-item:nth-child(3) {
+    background-color: magenta;
+}
+
+.right-column-item:nth-child(4) {
+    background-color: yellow;
+}   
+
+.right-column-item:nth-child(5) {
+    background-color: lightcoral;
+}   
+
+.right-column-item:nth-child(6) {
+    background-color: lightblue;
+}   
+
+.right-column-item:nth-child(7) {
+    background-color: lightgreen;
+}   
+
 /* Add different colors for each row as needed */
 
 /* Footer */

@@ -1,4 +1,4 @@
-# Assignment 0-b Flex
+# Jessica Warrant
 
 This is a project to help you understand how to use nested flex box containers.
 
